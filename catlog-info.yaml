@@ -12,9 +12,7 @@ metadata:
   tags:
     - node-js
   annotations: 
-    azure.com/tag-selector: pid/p44
-    azure.com/microsoft-resource-group: dashboards
-    github.com/project-slug: 'ajessjain/devex.backstage/'
+    azure.com/tag-selector: pid:p44
     
 spec:
   type: service
