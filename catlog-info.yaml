@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: azure resource plugin
+  name: azure-resource-plugin
   description: A plugin showing Azure resource groups and security recommendations in relation to an entity in the catalog
   labels:
     system: web-apps
