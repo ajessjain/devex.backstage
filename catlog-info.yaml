@@ -13,6 +13,8 @@ metadata:
     - node-js
   annotations: 
     azure.com/tag-selector: pid/p44
+    azure.com/microsoft-resource-group: dashboards
+    
 spec:
   type: service
   lifecycle: experimental
