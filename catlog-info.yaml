@@ -12,7 +12,7 @@ metadata:
   tags:
     - node-js
   annotations: 
-    azure.com/tag-selector: resgrp1
+    azure.com/tag-selector: name/devex
     
 spec:
   type: service
