@@ -6,13 +6,13 @@ metadata:
   labels:
     system: web-apps
   links:
-    - url: https://github.com/ajessjain/devex.backstage/new/main
+    - url: https://github.com/ajessjain/devex.backstage/
       title: Azure resource
       icon: code
   tags:
     - node-js
   annotations: 
-    azure.com/tag-selector: key/value
+    azure.com/tag-selector: pid/p44
 spec:
   type: service
   lifecycle: experimental
